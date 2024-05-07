@@ -66,9 +66,7 @@ The basic idea of the Key-Value Memory Network is:
         - Essentially, the KV-MemNN “reads” the memory by focusing on the most relevant keys
     1. Each candidate memory is assigned a relevance probability by comparing the question to each key:
 
-        $$
-        p_{h_i} = \text{Softmax}(A \Phi_X(x)) \space \cdot \space A \Phi_K(k_{h_i}))
-        $$
+        $p_{h_i} = \text{Softmax}(A \Phi_X(x)) \space \cdot \space A \Phi_K(k_{h_i}))$
 
         - Where:
             - $\Phi$ represents the embedding dimensions (i.e. features)
