@@ -76,9 +76,7 @@ The basic idea of the Key-Value Memory Network is:
 3. **Value Reading**
     1. The values of the memories are read by taking their  weighted sum using the addressing probabilities and the vector $o$ is returned:
 
-        $$
-        o = \sum_i p_{h_i} A \Phi_V(v_{h_i})
-        $$
+        $o = \sum_i p_{h_i} A \Phi_V(v_{h_i})$
 
         - The memory access process is conducted by the controller network using $q = A \Phi_X(x)$ as the query
         - After receiving the result $o$, the query is updated with $q_2 = R_1(q+o)$ where $R$ is a $d \times d$ matrix
