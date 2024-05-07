@@ -83,7 +83,7 @@ The basic idea of the Key-Value Memory Network is:
 
 
 ### Midterm Report
-The midterm report we could choose to analyze one of a few possible research papers. I choose the paper [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903) because I found this extremely relevant in todays times. I found it fascinating how we could utilize LLM's in different ways to improve their performance on various tasks, especially in commonsense reasoning. I also was very curious as to why this happens for foundational LLM's.
+For the midterm report we could choose to analyze one of a few possible research papers. I chose the paper [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903) because I found this extremely relevant in todays times with recent onset of LLM's and how we are able to raise performance without fine-tuning methods. I found it fascinating how we could utilize LLM's in different ways to improve their performance on various tasks, especially in reasoning and generalization. I also was very curious as to why we are able to improve the performance of LLM's using different prompting methods.
 
 # Questions?
 
