@@ -89,4 +89,4 @@ The midterm report we could choose to analyze one of a few possible research pap
 
 # Questions?
 
-If you are a potnetial employer looking at this, I would be more than happy to share my work on the above assignments from this class. I cannot post my class code here due to the GT honor code.
+If you are a potential employer looking at this, I would be happy to go into more depth about the solutions to the work on the above assignments. I cannot post my class code here due to the GT honor code.
